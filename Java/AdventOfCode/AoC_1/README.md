@@ -39,3 +39,17 @@ The input is in the CSV folder, and the output of the program is in the output.t
 >Using the above example again, the three entries that sum to 2020 are 979, 366, and 675. Multiplying them together produces the answer, 241861950.
 >
 >In your expense report, what is the product of the three entries that sum to 2020?
+>
+>--- Credits ---
+>
+>Puzzles, Code, & Design: Eric Wastl
+>
+>Beta Testing:
+>
+>    Tim Giannetti
+>    Ben Lucek
+>    JP Burke
+>    Aneurysm9
+>    Andrew Skalski
+>
+>Community Managers: Danielle Lucek and Aneurysm9
