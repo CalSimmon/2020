@@ -1,0 +1,950 @@
+Group 1 had 23 unique answers.
+Group 2 had 22 unique answers.
+Group 3 had 12 unique answers.
+Group 4 had 19 unique answers.
+Group 5 had 15 unique answers.
+Group 6 had 14 unique answers.
+Group 7 had 20 unique answers.
+Group 8 had 17 unique answers.
+Group 9 had 5 unique answers.
+Group 10 had 19 unique answers.
+Group 11 had 25 unique answers.
+Group 12 had 4 unique answers.
+Group 13 had 1 unique answers.
+Group 14 had 25 unique answers.
+Group 15 had 23 unique answers.
+Group 16 had 19 unique answers.
+Group 17 had 8 unique answers.
+Group 18 had 20 unique answers.
+Group 19 had 2 unique answers.
+Group 20 had 15 unique answers.
+Group 21 had 21 unique answers.
+Group 22 had 20 unique answers.
+Group 23 had 5 unique answers.
+Group 24 had 12 unique answers.
+Group 25 had 8 unique answers.
+Group 26 had 6 unique answers.
+Group 27 had 18 unique answers.
+Group 28 had 22 unique answers.
+Group 29 had 19 unique answers.
+Group 30 had 9 unique answers.
+Group 31 had 18 unique answers.
+Group 32 had 11 unique answers.
+Group 33 had 17 unique answers.
+Group 34 had 14 unique answers.
+Group 35 had 16 unique answers.
+Group 36 had 5 unique answers.
+Group 37 had 2 unique answers.
+Group 38 had 22 unique answers.
+Group 39 had 4 unique answers.
+Group 40 had 22 unique answers.
+Group 41 had 5 unique answers.
+Group 42 had 10 unique answers.
+Group 43 had 3 unique answers.
+Group 44 had 17 unique answers.
+Group 45 had 5 unique answers.
+Group 46 had 11 unique answers.
+Group 47 had 17 unique answers.
+Group 48 had 12 unique answers.
+Group 49 had 19 unique answers.
+Group 50 had 9 unique answers.
+Group 51 had 15 unique answers.
+Group 52 had 18 unique answers.
+Group 53 had 20 unique answers.
+Group 54 had 7 unique answers.
+Group 55 had 22 unique answers.
+Group 56 had 17 unique answers.
+Group 57 had 24 unique answers.
+Group 58 had 7 unique answers.
+Group 59 had 6 unique answers.
+Group 60 had 17 unique answers.
+Group 61 had 7 unique answers.
+Group 62 had 2 unique answers.
+Group 63 had 21 unique answers.
+Group 64 had 8 unique answers.
+Group 65 had 18 unique answers.
+Group 66 had 17 unique answers.
+Group 67 had 11 unique answers.
+Group 68 had 9 unique answers.
+Group 69 had 11 unique answers.
+Group 70 had 8 unique answers.
+Group 71 had 22 unique answers.
+Group 72 had 7 unique answers.
+Group 73 had 26 unique answers.
+Group 74 had 15 unique answers.
+Group 75 had 22 unique answers.
+Group 76 had 21 unique answers.
+Group 77 had 3 unique answers.
+Group 78 had 20 unique answers.
+Group 79 had 15 unique answers.
+Group 80 had 3 unique answers.
+Group 81 had 17 unique answers.
+Group 82 had 21 unique answers.
+Group 83 had 13 unique answers.
+Group 84 had 9 unique answers.
+Group 85 had 2 unique answers.
+Group 86 had 17 unique answers.
+Group 87 had 3 unique answers.
+Group 88 had 1 unique answers.
+Group 89 had 10 unique answers.
+Group 90 had 20 unique answers.
+Group 91 had 14 unique answers.
+Group 92 had 7 unique answers.
+Group 93 had 1 unique answers.
+Group 94 had 26 unique answers.
+Group 95 had 14 unique answers.
+Group 96 had 2 unique answers.
+Group 97 had 18 unique answers.
+Group 98 had 18 unique answers.
+Group 99 had 11 unique answers.
+Group 100 had 6 unique answers.
+Group 101 had 7 unique answers.
+Group 102 had 24 unique answers.
+Group 103 had 24 unique answers.
+Group 104 had 14 unique answers.
+Group 105 had 9 unique answers.
+Group 106 had 26 unique answers.
+Group 107 had 3 unique answers.
+Group 108 had 22 unique answers.
+Group 109 had 6 unique answers.
+Group 110 had 14 unique answers.
+Group 111 had 25 unique answers.
+Group 112 had 14 unique answers.
+Group 113 had 5 unique answers.
+Group 114 had 13 unique answers.
+Group 115 had 17 unique answers.
+Group 116 had 15 unique answers.
+Group 117 had 23 unique answers.
+Group 118 had 24 unique answers.
+Group 119 had 17 unique answers.
+Group 120 had 18 unique answers.
+Group 121 had 5 unique answers.
+Group 122 had 12 unique answers.
+Group 123 had 10 unique answers.
+Group 124 had 8 unique answers.
+Group 125 had 4 unique answers.
+Group 126 had 9 unique answers.
+Group 127 had 24 unique answers.
+Group 128 had 22 unique answers.
+Group 129 had 24 unique answers.
+Group 130 had 23 unique answers.
+Group 131 had 6 unique answers.
+Group 132 had 4 unique answers.
+Group 133 had 18 unique answers.
+Group 134 had 17 unique answers.
+Group 135 had 5 unique answers.
+Group 136 had 10 unique answers.
+Group 137 had 10 unique answers.
+Group 138 had 21 unique answers.
+Group 139 had 26 unique answers.
+Group 140 had 4 unique answers.
+Group 141 had 20 unique answers.
+Group 142 had 16 unique answers.
+Group 143 had 11 unique answers.
+Group 144 had 23 unique answers.
+Group 145 had 14 unique answers.
+Group 146 had 9 unique answers.
+Group 147 had 23 unique answers.
+Group 148 had 14 unique answers.
+Group 149 had 15 unique answers.
+Group 150 had 6 unique answers.
+Group 151 had 2 unique answers.
+Group 152 had 13 unique answers.
+Group 153 had 11 unique answers.
+Group 154 had 17 unique answers.
+Group 155 had 1 unique answers.
+Group 156 had 23 unique answers.
+Group 157 had 21 unique answers.
+Group 158 had 21 unique answers.
+Group 159 had 24 unique answers.
+Group 160 had 7 unique answers.
+Group 161 had 21 unique answers.
+Group 162 had 9 unique answers.
+Group 163 had 3 unique answers.
+Group 164 had 13 unique answers.
+Group 165 had 13 unique answers.
+Group 166 had 2 unique answers.
+Group 167 had 23 unique answers.
+Group 168 had 2 unique answers.
+Group 169 had 6 unique answers.
+Group 170 had 23 unique answers.
+Group 171 had 15 unique answers.
+Group 172 had 1 unique answers.
+Group 173 had 3 unique answers.
+Group 174 had 24 unique answers.
+Group 175 had 16 unique answers.
+Group 176 had 6 unique answers.
+Group 177 had 10 unique answers.
+Group 178 had 11 unique answers.
+Group 179 had 16 unique answers.
+Group 180 had 5 unique answers.
+Group 181 had 2 unique answers.
+Group 182 had 20 unique answers.
+Group 183 had 5 unique answers.
+Group 184 had 18 unique answers.
+Group 185 had 17 unique answers.
+Group 186 had 19 unique answers.
+Group 187 had 11 unique answers.
+Group 188 had 4 unique answers.
+Group 189 had 25 unique answers.
+Group 190 had 10 unique answers.
+Group 191 had 7 unique answers.
+Group 192 had 26 unique answers.
+Group 193 had 15 unique answers.
+Group 194 had 9 unique answers.
+Group 195 had 25 unique answers.
+Group 196 had 6 unique answers.
+Group 197 had 12 unique answers.
+Group 198 had 12 unique answers.
+Group 199 had 22 unique answers.
+Group 200 had 25 unique answers.
+Group 201 had 22 unique answers.
+Group 202 had 3 unique answers.
+Group 203 had 20 unique answers.
+Group 204 had 17 unique answers.
+Group 205 had 9 unique answers.
+Group 206 had 14 unique answers.
+Group 207 had 26 unique answers.
+Group 208 had 24 unique answers.
+Group 209 had 16 unique answers.
+Group 210 had 12 unique answers.
+Group 211 had 23 unique answers.
+Group 212 had 15 unique answers.
+Group 213 had 20 unique answers.
+Group 214 had 1 unique answers.
+Group 215 had 16 unique answers.
+Group 216 had 7 unique answers.
+Group 217 had 2 unique answers.
+Group 218 had 2 unique answers.
+Group 219 had 3 unique answers.
+Group 220 had 4 unique answers.
+Group 221 had 23 unique answers.
+Group 222 had 19 unique answers.
+Group 223 had 14 unique answers.
+Group 224 had 17 unique answers.
+Group 225 had 13 unique answers.
+Group 226 had 4 unique answers.
+Group 227 had 18 unique answers.
+Group 228 had 18 unique answers.
+Group 229 had 20 unique answers.
+Group 230 had 10 unique answers.
+Group 231 had 10 unique answers.
+Group 232 had 9 unique answers.
+Group 233 had 22 unique answers.
+Group 234 had 18 unique answers.
+Group 235 had 25 unique answers.
+Group 236 had 12 unique answers.
+Group 237 had 16 unique answers.
+Group 238 had 3 unique answers.
+Group 239 had 20 unique answers.
+Group 240 had 7 unique answers.
+Group 241 had 4 unique answers.
+Group 242 had 25 unique answers.
+Group 243 had 8 unique answers.
+Group 244 had 8 unique answers.
+Group 245 had 2 unique answers.
+Group 246 had 23 unique answers.
+Group 247 had 12 unique answers.
+Group 248 had 21 unique answers.
+Group 249 had 26 unique answers.
+Group 250 had 24 unique answers.
+Group 251 had 13 unique answers.
+Group 252 had 8 unique answers.
+Group 253 had 26 unique answers.
+Group 254 had 8 unique answers.
+Group 255 had 3 unique answers.
+Group 256 had 19 unique answers.
+Group 257 had 8 unique answers.
+Group 258 had 4 unique answers.
+Group 259 had 11 unique answers.
+Group 260 had 14 unique answers.
+Group 261 had 4 unique answers.
+Group 262 had 2 unique answers.
+Group 263 had 12 unique answers.
+Group 264 had 10 unique answers.
+Group 265 had 5 unique answers.
+Group 266 had 24 unique answers.
+Group 267 had 20 unique answers.
+Group 268 had 26 unique answers.
+Group 269 had 20 unique answers.
+Group 270 had 5 unique answers.
+Group 271 had 10 unique answers.
+Group 272 had 4 unique answers.
+Group 273 had 18 unique answers.
+Group 274 had 18 unique answers.
+Group 275 had 21 unique answers.
+Group 276 had 12 unique answers.
+Group 277 had 5 unique answers.
+Group 278 had 11 unique answers.
+Group 279 had 24 unique answers.
+Group 280 had 9 unique answers.
+Group 281 had 11 unique answers.
+Group 282 had 26 unique answers.
+Group 283 had 1 unique answers.
+Group 284 had 4 unique answers.
+Group 285 had 12 unique answers.
+Group 286 had 6 unique answers.
+Group 287 had 25 unique answers.
+Group 288 had 19 unique answers.
+Group 289 had 12 unique answers.
+Group 290 had 18 unique answers.
+Group 291 had 13 unique answers.
+Group 292 had 20 unique answers.
+Group 293 had 22 unique answers.
+Group 294 had 21 unique answers.
+Group 295 had 9 unique answers.
+Group 296 had 2 unique answers.
+Group 297 had 14 unique answers.
+Group 298 had 11 unique answers.
+Group 299 had 17 unique answers.
+Group 300 had 15 unique answers.
+Group 301 had 17 unique answers.
+Group 302 had 26 unique answers.
+Group 303 had 4 unique answers.
+Group 304 had 17 unique answers.
+Group 305 had 21 unique answers.
+Group 306 had 11 unique answers.
+Group 307 had 19 unique answers.
+Group 308 had 3 unique answers.
+Group 309 had 21 unique answers.
+Group 310 had 17 unique answers.
+Group 311 had 23 unique answers.
+Group 312 had 17 unique answers.
+Group 313 had 10 unique answers.
+Group 314 had 26 unique answers.
+Group 315 had 4 unique answers.
+Group 316 had 17 unique answers.
+Group 317 had 2 unique answers.
+Group 318 had 2 unique answers.
+Group 319 had 8 unique answers.
+Group 320 had 14 unique answers.
+Group 321 had 14 unique answers.
+Group 322 had 5 unique answers.
+Group 323 had 2 unique answers.
+Group 324 had 24 unique answers.
+Group 325 had 25 unique answers.
+Group 326 had 8 unique answers.
+Group 327 had 22 unique answers.
+Group 328 had 25 unique answers.
+Group 329 had 6 unique answers.
+Group 330 had 3 unique answers.
+Group 331 had 9 unique answers.
+Group 332 had 12 unique answers.
+Group 333 had 19 unique answers.
+Group 334 had 19 unique answers.
+Group 335 had 26 unique answers.
+Group 336 had 10 unique answers.
+Group 337 had 6 unique answers.
+Group 338 had 12 unique answers.
+Group 339 had 17 unique answers.
+Group 340 had 8 unique answers.
+Group 341 had 24 unique answers.
+Group 342 had 17 unique answers.
+Group 343 had 6 unique answers.
+Group 344 had 23 unique answers.
+Group 345 had 19 unique answers.
+Group 346 had 2 unique answers.
+Group 347 had 20 unique answers.
+Group 348 had 3 unique answers.
+Group 349 had 10 unique answers.
+Group 350 had 22 unique answers.
+Group 351 had 7 unique answers.
+Group 352 had 1 unique answers.
+Group 353 had 6 unique answers.
+Group 354 had 8 unique answers.
+Group 355 had 22 unique answers.
+Group 356 had 13 unique answers.
+Group 357 had 13 unique answers.
+Group 358 had 11 unique answers.
+Group 359 had 13 unique answers.
+Group 360 had 14 unique answers.
+Group 361 had 11 unique answers.
+Group 362 had 26 unique answers.
+Group 363 had 5 unique answers.
+Group 364 had 20 unique answers.
+Group 365 had 4 unique answers.
+Group 366 had 9 unique answers.
+Group 367 had 25 unique answers.
+Group 368 had 20 unique answers.
+Group 369 had 5 unique answers.
+Group 370 had 5 unique answers.
+Group 371 had 24 unique answers.
+Group 372 had 23 unique answers.
+Group 373 had 4 unique answers.
+Group 374 had 26 unique answers.
+Group 375 had 3 unique answers.
+Group 376 had 12 unique answers.
+Group 377 had 6 unique answers.
+Group 378 had 8 unique answers.
+Group 379 had 2 unique answers.
+Group 380 had 2 unique answers.
+Group 381 had 20 unique answers.
+Group 382 had 22 unique answers.
+Group 383 had 19 unique answers.
+Group 384 had 13 unique answers.
+Group 385 had 17 unique answers.
+Group 386 had 11 unique answers.
+Group 387 had 6 unique answers.
+Group 388 had 16 unique answers.
+Group 389 had 2 unique answers.
+Group 390 had 6 unique answers.
+Group 391 had 8 unique answers.
+Group 392 had 17 unique answers.
+Group 393 had 23 unique answers.
+Group 394 had 19 unique answers.
+Group 395 had 16 unique answers.
+Group 396 had 23 unique answers.
+Group 397 had 8 unique answers.
+Group 398 had 7 unique answers.
+Group 399 had 14 unique answers.
+Group 400 had 6 unique answers.
+Group 401 had 6 unique answers.
+Group 402 had 16 unique answers.
+Group 403 had 3 unique answers.
+Group 404 had 2 unique answers.
+Group 405 had 9 unique answers.
+Group 406 had 3 unique answers.
+Group 407 had 10 unique answers.
+Group 408 had 17 unique answers.
+Group 409 had 19 unique answers.
+Group 410 had 9 unique answers.
+Group 411 had 12 unique answers.
+Group 412 had 4 unique answers.
+Group 413 had 19 unique answers.
+Group 414 had 25 unique answers.
+Group 415 had 4 unique answers.
+Group 416 had 7 unique answers.
+Group 417 had 16 unique answers.
+Group 418 had 14 unique answers.
+Group 419 had 4 unique answers.
+Group 420 had 23 unique answers.
+Group 421 had 20 unique answers.
+Group 422 had 23 unique answers.
+Group 423 had 13 unique answers.
+Group 424 had 25 unique answers.
+Group 425 had 10 unique answers.
+Group 426 had 20 unique answers.
+Group 427 had 15 unique answers.
+Group 428 had 5 unique answers.
+Group 429 had 21 unique answers.
+Group 430 had 25 unique answers.
+Group 431 had 14 unique answers.
+Group 432 had 16 unique answers.
+Group 433 had 9 unique answers.
+Group 434 had 8 unique answers.
+Group 435 had 8 unique answers.
+Group 436 had 3 unique answers.
+Group 437 had 8 unique answers.
+Group 438 had 21 unique answers.
+Group 439 had 7 unique answers.
+Group 440 had 22 unique answers.
+Group 441 had 12 unique answers.
+Group 442 had 13 unique answers.
+Group 443 had 6 unique answers.
+Group 444 had 24 unique answers.
+Group 445 had 16 unique answers.
+Group 446 had 14 unique answers.
+Group 447 had 26 unique answers.
+Group 448 had 25 unique answers.
+Group 449 had 10 unique answers.
+Group 450 had 3 unique answers.
+Group 451 had 6 unique answers.
+Group 452 had 8 unique answers.
+Group 453 had 18 unique answers.
+Group 454 had 5 unique answers.
+Group 455 had 7 unique answers.
+Group 456 had 23 unique answers.
+Group 457 had 23 unique answers.
+Group 458 had 25 unique answers.
+Group 459 had 4 unique answers.
+Group 460 had 26 unique answers.
+Group 461 had 24 unique answers.
+Group 462 had 17 unique answers.
+Group 463 had 13 unique answers.
+Group 464 had 9 unique answers.
+Group 465 had 9 unique answers.
+Group 466 had 21 unique answers.
+Group 467 had 6 unique answers.
+Group 468 had 15 unique answers.
+Group 469 had 3 unique answers.
+Group 470 had 8 unique answers.
+Group 471 had 8 unique answers.
+Group 472 had 18 unique answers.
+Group 473 had 24 unique answers.
+The answer is 6382.
+
+
+Group 1 all said yes to 6 answers.
+Group 2 all said yes to 9 answers.
+Group 3 all said yes to 10 answers.
+Group 4 all said yes to 9 answers.
+Group 5 all said yes to 14 answers.
+Group 6 all said yes to 1 answers.
+Group 7 all said yes to 0 answers.
+Group 8 all said yes to 1 answers.
+Group 9 all said yes to 4 answers.
+Group 10 all said yes to 5 answers.
+Group 11 all said yes to 7 answers.
+Group 12 all said yes to 2 answers.
+Group 13 all said yes to 1 answers.
+Group 14 all said yes to 4 answers.
+Group 15 all said yes to 10 answers.
+Group 16 all said yes to 6 answers.
+Group 17 all said yes to 0 answers.
+Group 18 all said yes to 3 answers.
+Group 19 all said yes to 2 answers.
+Group 20 all said yes to 5 answers.
+Group 21 all said yes to 0 answers.
+Group 22 all said yes to 1 answers.
+Group 23 all said yes to 3 answers.
+Group 24 all said yes to 10 answers.
+Group 25 all said yes to 0 answers.
+Group 26 all said yes to 4 answers.
+Group 27 all said yes to 0 answers.
+Group 28 all said yes to 0 answers.
+Group 29 all said yes to 7 answers.
+Group 30 all said yes to 7 answers.
+Group 31 all said yes to 2 answers.
+Group 32 all said yes to 9 answers.
+Group 33 all said yes to 16 answers.
+Group 34 all said yes to 4 answers.
+Group 35 all said yes to 16 answers.
+Group 36 all said yes to 3 answers.
+Group 37 all said yes to 0 answers.
+Group 38 all said yes to 8 answers.
+Group 39 all said yes to 3 answers.
+Group 40 all said yes to 13 answers.
+Group 41 all said yes to 4 answers.
+Group 42 all said yes to 7 answers.
+Group 43 all said yes to 0 answers.
+Group 44 all said yes to 16 answers.
+Group 45 all said yes to 5 answers.
+Group 46 all said yes to 8 answers.
+Group 47 all said yes to 4 answers.
+Group 48 all said yes to 3 answers.
+Group 49 all said yes to 10 answers.
+Group 50 all said yes to 5 answers.
+Group 51 all said yes to 1 answers.
+Group 52 all said yes to 14 answers.
+Group 53 all said yes to 6 answers.
+Group 54 all said yes to 7 answers.
+Group 55 all said yes to 9 answers.
+Group 56 all said yes to 16 answers.
+Group 57 all said yes to 14 answers.
+Group 58 all said yes to 3 answers.
+Group 59 all said yes to 0 answers.
+Group 60 all said yes to 6 answers.
+Group 61 all said yes to 7 answers.
+Group 62 all said yes to 0 answers.
+Group 63 all said yes to 7 answers.
+Group 64 all said yes to 0 answers.
+Group 65 all said yes to 18 answers.
+Group 66 all said yes to 7 answers.
+Group 67 all said yes to 6 answers.
+Group 68 all said yes to 3 answers.
+Group 69 all said yes to 7 answers.
+Group 70 all said yes to 2 answers.
+Group 71 all said yes to 0 answers.
+Group 72 all said yes to 0 answers.
+Group 73 all said yes to 0 answers.
+Group 74 all said yes to 14 answers.
+Group 75 all said yes to 13 answers.
+Group 76 all said yes to 5 answers.
+Group 77 all said yes to 2 answers.
+Group 78 all said yes to 18 answers.
+Group 79 all said yes to 10 answers.
+Group 80 all said yes to 1 answers.
+Group 81 all said yes to 2 answers.
+Group 82 all said yes to 4 answers.
+Group 83 all said yes to 5 answers.
+Group 84 all said yes to 7 answers.
+Group 85 all said yes to 1 answers.
+Group 86 all said yes to 12 answers.
+Group 87 all said yes to 2 answers.
+Group 88 all said yes to 1 answers.
+Group 89 all said yes to 4 answers.
+Group 90 all said yes to 4 answers.
+Group 91 all said yes to 11 answers.
+Group 92 all said yes to 0 answers.
+Group 93 all said yes to 1 answers.
+Group 94 all said yes to 2 answers.
+Group 95 all said yes to 0 answers.
+Group 96 all said yes to 1 answers.
+Group 97 all said yes to 17 answers.
+Group 98 all said yes to 13 answers.
+Group 99 all said yes to 4 answers.
+Group 100 all said yes to 6 answers.
+Group 101 all said yes to 2 answers.
+Group 102 all said yes to 17 answers.
+Group 103 all said yes to 16 answers.
+Group 104 all said yes to 14 answers.
+Group 105 all said yes to 6 answers.
+Group 106 all said yes to 4 answers.
+Group 107 all said yes to 0 answers.
+Group 108 all said yes to 20 answers.
+Group 109 all said yes to 3 answers.
+Group 110 all said yes to 3 answers.
+Group 111 all said yes to 12 answers.
+Group 112 all said yes to 2 answers.
+Group 113 all said yes to 5 answers.
+Group 114 all said yes to 3 answers.
+Group 115 all said yes to 17 answers.
+Group 116 all said yes to 2 answers.
+Group 117 all said yes to 10 answers.
+Group 118 all said yes to 18 answers.
+Group 119 all said yes to 0 answers.
+Group 120 all said yes to 4 answers.
+Group 121 all said yes to 4 answers.
+Group 122 all said yes to 2 answers.
+Group 123 all said yes to 10 answers.
+Group 124 all said yes to 4 answers.
+Group 125 all said yes to 2 answers.
+Group 126 all said yes to 5 answers.
+Group 127 all said yes to 7 answers.
+Group 128 all said yes to 12 answers.
+Group 129 all said yes to 9 answers.
+Group 130 all said yes to 12 answers.
+Group 131 all said yes to 6 answers.
+Group 132 all said yes to 3 answers.
+Group 133 all said yes to 0 answers.
+Group 134 all said yes to 5 answers.
+Group 135 all said yes to 1 answers.
+Group 136 all said yes to 10 answers.
+Group 137 all said yes to 5 answers.
+Group 138 all said yes to 0 answers.
+Group 139 all said yes to 26 answers.
+Group 140 all said yes to 0 answers.
+Group 141 all said yes to 18 answers.
+Group 142 all said yes to 15 answers.
+Group 143 all said yes to 0 answers.
+Group 144 all said yes to 5 answers.
+Group 145 all said yes to 5 answers.
+Group 146 all said yes to 2 answers.
+Group 147 all said yes to 19 answers.
+Group 148 all said yes to 8 answers.
+Group 149 all said yes to 7 answers.
+Group 150 all said yes to 1 answers.
+Group 151 all said yes to 2 answers.
+Group 152 all said yes to 11 answers.
+Group 153 all said yes to 9 answers.
+Group 154 all said yes to 7 answers.
+Group 155 all said yes to 1 answers.
+Group 156 all said yes to 4 answers.
+Group 157 all said yes to 10 answers.
+Group 158 all said yes to 15 answers.
+Group 159 all said yes to 10 answers.
+Group 160 all said yes to 4 answers.
+Group 161 all said yes to 0 answers.
+Group 162 all said yes to 0 answers.
+Group 163 all said yes to 1 answers.
+Group 164 all said yes to 6 answers.
+Group 165 all said yes to 3 answers.
+Group 166 all said yes to 0 answers.
+Group 167 all said yes to 19 answers.
+Group 168 all said yes to 2 answers.
+Group 169 all said yes to 4 answers.
+Group 170 all said yes to 17 answers.
+Group 171 all said yes to 1 answers.
+Group 172 all said yes to 1 answers.
+Group 173 all said yes to 3 answers.
+Group 174 all said yes to 17 answers.
+Group 175 all said yes to 1 answers.
+Group 176 all said yes to 5 answers.
+Group 177 all said yes to 5 answers.
+Group 178 all said yes to 11 answers.
+Group 179 all said yes to 7 answers.
+Group 180 all said yes to 1 answers.
+Group 181 all said yes to 0 answers.
+Group 182 all said yes to 18 answers.
+Group 183 all said yes to 3 answers.
+Group 184 all said yes to 5 answers.
+Group 185 all said yes to 9 answers.
+Group 186 all said yes to 17 answers.
+Group 187 all said yes to 10 answers.
+Group 188 all said yes to 4 answers.
+Group 189 all said yes to 13 answers.
+Group 190 all said yes to 7 answers.
+Group 191 all said yes to 7 answers.
+Group 192 all said yes to 11 answers.
+Group 193 all said yes to 10 answers.
+Group 194 all said yes to 8 answers.
+Group 195 all said yes to 15 answers.
+Group 196 all said yes to 5 answers.
+Group 197 all said yes to 9 answers.
+Group 198 all said yes to 7 answers.
+Group 199 all said yes to 5 answers.
+Group 200 all said yes to 7 answers.
+Group 201 all said yes to 7 answers.
+Group 202 all said yes to 0 answers.
+Group 203 all said yes to 1 answers.
+Group 204 all said yes to 8 answers.
+Group 205 all said yes to 0 answers.
+Group 206 all said yes to 10 answers.
+Group 207 all said yes to 13 answers.
+Group 208 all said yes to 9 answers.
+Group 209 all said yes to 3 answers.
+Group 210 all said yes to 0 answers.
+Group 211 all said yes to 19 answers.
+Group 212 all said yes to 4 answers.
+Group 213 all said yes to 11 answers.
+Group 214 all said yes to 1 answers.
+Group 215 all said yes to 2 answers.
+Group 216 all said yes to 6 answers.
+Group 217 all said yes to 1 answers.
+Group 218 all said yes to 1 answers.
+Group 219 all said yes to 3 answers.
+Group 220 all said yes to 0 answers.
+Group 221 all said yes to 14 answers.
+Group 222 all said yes to 19 answers.
+Group 223 all said yes to 2 answers.
+Group 224 all said yes to 6 answers.
+Group 225 all said yes to 4 answers.
+Group 226 all said yes to 1 answers.
+Group 227 all said yes to 0 answers.
+Group 228 all said yes to 17 answers.
+Group 229 all said yes to 9 answers.
+Group 230 all said yes to 8 answers.
+Group 231 all said yes to 6 answers.
+Group 232 all said yes to 8 answers.
+Group 233 all said yes to 19 answers.
+Group 234 all said yes to 16 answers.
+Group 235 all said yes to 25 answers.
+Group 236 all said yes to 11 answers.
+Group 237 all said yes to 7 answers.
+Group 238 all said yes to 2 answers.
+Group 239 all said yes to 2 answers.
+Group 240 all said yes to 0 answers.
+Group 241 all said yes to 3 answers.
+Group 242 all said yes to 3 answers.
+Group 243 all said yes to 6 answers.
+Group 244 all said yes to 2 answers.
+Group 245 all said yes to 2 answers.
+Group 246 all said yes to 3 answers.
+Group 247 all said yes to 9 answers.
+Group 248 all said yes to 12 answers.
+Group 249 all said yes to 15 answers.
+Group 250 all said yes to 21 answers.
+Group 251 all said yes to 6 answers.
+Group 252 all said yes to 2 answers.
+Group 253 all said yes to 25 answers.
+Group 254 all said yes to 2 answers.
+Group 255 all said yes to 2 answers.
+Group 256 all said yes to 12 answers.
+Group 257 all said yes to 7 answers.
+Group 258 all said yes to 1 answers.
+Group 259 all said yes to 7 answers.
+Group 260 all said yes to 14 answers.
+Group 261 all said yes to 1 answers.
+Group 262 all said yes to 1 answers.
+Group 263 all said yes to 3 answers.
+Group 264 all said yes to 5 answers.
+Group 265 all said yes to 4 answers.
+Group 266 all said yes to 23 answers.
+Group 267 all said yes to 17 answers.
+Group 268 all said yes to 24 answers.
+Group 269 all said yes to 17 answers.
+Group 270 all said yes to 0 answers.
+Group 271 all said yes to 8 answers.
+Group 272 all said yes to 3 answers.
+Group 273 all said yes to 1 answers.
+Group 274 all said yes to 13 answers.
+Group 275 all said yes to 11 answers.
+Group 276 all said yes to 12 answers.
+Group 277 all said yes to 3 answers.
+Group 278 all said yes to 1 answers.
+Group 279 all said yes to 22 answers.
+Group 280 all said yes to 2 answers.
+Group 281 all said yes to 6 answers.
+Group 282 all said yes to 1 answers.
+Group 283 all said yes to 1 answers.
+Group 284 all said yes to 0 answers.
+Group 285 all said yes to 9 answers.
+Group 286 all said yes to 5 answers.
+Group 287 all said yes to 19 answers.
+Group 288 all said yes to 10 answers.
+Group 289 all said yes to 12 answers.
+Group 290 all said yes to 12 answers.
+Group 291 all said yes to 3 answers.
+Group 292 all said yes to 12 answers.
+Group 293 all said yes to 14 answers.
+Group 294 all said yes to 6 answers.
+Group 295 all said yes to 2 answers.
+Group 296 all said yes to 1 answers.
+Group 297 all said yes to 8 answers.
+Group 298 all said yes to 11 answers.
+Group 299 all said yes to 15 answers.
+Group 300 all said yes to 8 answers.
+Group 301 all said yes to 5 answers.
+Group 302 all said yes to 25 answers.
+Group 303 all said yes to 3 answers.
+Group 304 all said yes to 10 answers.
+Group 305 all said yes to 1 answers.
+Group 306 all said yes to 5 answers.
+Group 307 all said yes to 1 answers.
+Group 308 all said yes to 1 answers.
+Group 309 all said yes to 2 answers.
+Group 310 all said yes to 5 answers.
+Group 311 all said yes to 16 answers.
+Group 312 all said yes to 14 answers.
+Group 313 all said yes to 9 answers.
+Group 314 all said yes to 5 answers.
+Group 315 all said yes to 2 answers.
+Group 316 all said yes to 8 answers.
+Group 317 all said yes to 0 answers.
+Group 318 all said yes to 2 answers.
+Group 319 all said yes to 1 answers.
+Group 320 all said yes to 3 answers.
+Group 321 all said yes to 2 answers.
+Group 322 all said yes to 1 answers.
+Group 323 all said yes to 0 answers.
+Group 324 all said yes to 7 answers.
+Group 325 all said yes to 3 answers.
+Group 326 all said yes to 5 answers.
+Group 327 all said yes to 9 answers.
+Group 328 all said yes to 8 answers.
+Group 329 all said yes to 5 answers.
+Group 330 all said yes to 1 answers.
+Group 331 all said yes to 0 answers.
+Group 332 all said yes to 8 answers.
+Group 333 all said yes to 3 answers.
+Group 334 all said yes to 0 answers.
+Group 335 all said yes to 9 answers.
+Group 336 all said yes to 7 answers.
+Group 337 all said yes to 6 answers.
+Group 338 all said yes to 3 answers.
+Group 339 all said yes to 11 answers.
+Group 340 all said yes to 3 answers.
+Group 341 all said yes to 12 answers.
+Group 342 all said yes to 6 answers.
+Group 343 all said yes to 5 answers.
+Group 344 all said yes to 21 answers.
+Group 345 all said yes to 3 answers.
+Group 346 all said yes to 2 answers.
+Group 347 all said yes to 8 answers.
+Group 348 all said yes to 0 answers.
+Group 349 all said yes to 8 answers.
+Group 350 all said yes to 5 answers.
+Group 351 all said yes to 0 answers.
+Group 352 all said yes to 1 answers.
+Group 353 all said yes to 3 answers.
+Group 354 all said yes to 4 answers.
+Group 355 all said yes to 6 answers.
+Group 356 all said yes to 10 answers.
+Group 357 all said yes to 13 answers.
+Group 358 all said yes to 10 answers.
+Group 359 all said yes to 8 answers.
+Group 360 all said yes to 6 answers.
+Group 361 all said yes to 9 answers.
+Group 362 all said yes to 20 answers.
+Group 363 all said yes to 5 answers.
+Group 364 all said yes to 7 answers.
+Group 365 all said yes to 2 answers.
+Group 366 all said yes to 7 answers.
+Group 367 all said yes to 23 answers.
+Group 368 all said yes to 13 answers.
+Group 369 all said yes to 2 answers.
+Group 370 all said yes to 1 answers.
+Group 371 all said yes to 19 answers.
+Group 372 all said yes to 18 answers.
+Group 373 all said yes to 0 answers.
+Group 374 all said yes to 4 answers.
+Group 375 all said yes to 3 answers.
+Group 376 all said yes to 12 answers.
+Group 377 all said yes to 5 answers.
+Group 378 all said yes to 8 answers.
+Group 379 all said yes to 2 answers.
+Group 380 all said yes to 1 answers.
+Group 381 all said yes to 16 answers.
+Group 382 all said yes to 7 answers.
+Group 383 all said yes to 19 answers.
+Group 384 all said yes to 8 answers.
+Group 385 all said yes to 13 answers.
+Group 386 all said yes to 8 answers.
+Group 387 all said yes to 3 answers.
+Group 388 all said yes to 16 answers.
+Group 389 all said yes to 1 answers.
+Group 390 all said yes to 6 answers.
+Group 391 all said yes to 4 answers.
+Group 392 all said yes to 12 answers.
+Group 393 all said yes to 1 answers.
+Group 394 all said yes to 6 answers.
+Group 395 all said yes to 14 answers.
+Group 396 all said yes to 6 answers.
+Group 397 all said yes to 1 answers.
+Group 398 all said yes to 0 answers.
+Group 399 all said yes to 5 answers.
+Group 400 all said yes to 1 answers.
+Group 401 all said yes to 3 answers.
+Group 402 all said yes to 6 answers.
+Group 403 all said yes to 0 answers.
+Group 404 all said yes to 0 answers.
+Group 405 all said yes to 1 answers.
+Group 406 all said yes to 1 answers.
+Group 407 all said yes to 9 answers.
+Group 408 all said yes to 14 answers.
+Group 409 all said yes to 17 answers.
+Group 410 all said yes to 7 answers.
+Group 411 all said yes to 9 answers.
+Group 412 all said yes to 0 answers.
+Group 413 all said yes to 0 answers.
+Group 414 all said yes to 24 answers.
+Group 415 all said yes to 4 answers.
+Group 416 all said yes to 4 answers.
+Group 417 all said yes to 10 answers.
+Group 418 all said yes to 2 answers.
+Group 419 all said yes to 1 answers.
+Group 420 all said yes to 7 answers.
+Group 421 all said yes to 5 answers.
+Group 422 all said yes to 23 answers.
+Group 423 all said yes to 12 answers.
+Group 424 all said yes to 10 answers.
+Group 425 all said yes to 5 answers.
+Group 426 all said yes to 1 answers.
+Group 427 all said yes to 3 answers.
+Group 428 all said yes to 5 answers.
+Group 429 all said yes to 12 answers.
+Group 430 all said yes to 18 answers.
+Group 431 all said yes to 12 answers.
+Group 432 all said yes to 5 answers.
+Group 433 all said yes to 4 answers.
+Group 434 all said yes to 1 answers.
+Group 435 all said yes to 3 answers.
+Group 436 all said yes to 0 answers.
+Group 437 all said yes to 2 answers.
+Group 438 all said yes to 13 answers.
+Group 439 all said yes to 7 answers.
+Group 440 all said yes to 16 answers.
+Group 441 all said yes to 11 answers.
+Group 442 all said yes to 11 answers.
+Group 443 all said yes to 3 answers.
+Group 444 all said yes to 1 answers.
+Group 445 all said yes to 6 answers.
+Group 446 all said yes to 0 answers.
+Group 447 all said yes to 4 answers.
+Group 448 all said yes to 24 answers.
+Group 449 all said yes to 4 answers.
+Group 450 all said yes to 3 answers.
+Group 451 all said yes to 3 answers.
+Group 452 all said yes to 4 answers.
+Group 453 all said yes to 15 answers.
+Group 454 all said yes to 0 answers.
+Group 455 all said yes to 6 answers.
+Group 456 all said yes to 14 answers.
+Group 457 all said yes to 2 answers.
+Group 458 all said yes to 22 answers.
+Group 459 all said yes to 2 answers.
+Group 460 all said yes to 25 answers.
+Group 461 all said yes to 12 answers.
+Group 462 all said yes to 0 answers.
+Group 463 all said yes to 4 answers.
+Group 464 all said yes to 6 answers.
+Group 465 all said yes to 9 answers.
+Group 466 all said yes to 11 answers.
+Group 467 all said yes to 5 answers.
+Group 468 all said yes to 12 answers.
+Group 469 all said yes to 1 answers.
+Group 470 all said yes to 2 answers.
+Group 471 all said yes to 8 answers.
+Group 472 all said yes to 11 answers.
+Group 473 all said yes to 9 answers.
+The answer is 3197.
