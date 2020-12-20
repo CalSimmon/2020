@@ -1,0 +1,6 @@
+For Right 1 and Down 1, you ran into 50 trees.
+For Right 3 and Down 1, you ran into 148 trees.
+For Right 5 and Down 1, you ran into 53 trees.
+For Right 7 and Down 1, you ran into 64 trees.
+For Right 1 and Down 2, you ran into 29 trees.
+The answer is 727923200
