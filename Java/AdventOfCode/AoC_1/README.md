@@ -1,6 +1,7 @@
 # Advent of Code Day 1
 This was my first real experience with projects outside of education.  
 The first few here, I hadn't planned ahead and ended up writing over the part 1 answer for part 2.  This is something I tried to correct after day 5.
+The input is in the CSV folder, and the output of the program is in the output.txt file.
 
 ### Day 1 Prompt
 >--- Day 1: Report Repair ---
