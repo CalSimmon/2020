@@ -41,3 +41,17 @@ The input is in the CSV folder, and the output of the program is in the output.t
 >    2-9 c: ccccccccc is invalid: both position 2 and position 9 contain c.
 >
 >How many passwords are valid according to the new interpretation of the policies?
+>
+>--- Credits ---
+>
+>Puzzles, Code, & Design: Eric Wastl
+>
+>Beta Testing:
+>
+>    Tim Giannetti
+>    Ben Lucek
+>    JP Burke
+>    Aneurysm9
+>    Andrew Skalski
+>
+>Community Managers: Danielle Lucek and Aneurysm9
