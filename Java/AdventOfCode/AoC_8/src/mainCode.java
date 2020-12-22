@@ -57,6 +57,7 @@ public class mainCode {
 				j++;
 				break;
 			case "jmp":
+				//Break it out to try the loop with the jmp changed
 				int result = tryFix(instructions, accumulator2, j, ran2);
 				
 				if (result > 0) {
