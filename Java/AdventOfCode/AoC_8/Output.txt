@@ -1,0 +1,5 @@
+The pattern repeated line 47
+The number in the accumulator when repeated was 1501
+
+Changing the jmp at section 216 fixed the loop
+The number in the accumulator when the loop terminated was 509
